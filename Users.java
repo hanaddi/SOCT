@@ -94,10 +94,7 @@ public class Users implements Serializable{
 		Users users=new Users();
 		Scanner sc=new Scanner(System.in);
 		users.load();
-		//users.addUser("ipak", "A+4cAAA3HAAAbMEkKHwcAACvAwAAAAAAALPXAU4A2QgCAYe5st3nYrAj1bfnfEELC6tDin3bVMnjoOctYo9Rhrv4");
-		//users.addUser("jack", "A+4cAAA3HAAA3oUfKHwcAACvAwAAAAAAAHtSK8IAlggCAYtD+wwpvwoYHHcJFitU2kNZ0U8JZAkXSeqSrlZOosAi");
-		//users.addUser("f3", "A+4cAAA3HAAAcswOKnwcAACvAwAAAAAAANFFgPkASQUCAdXH8y0+LDxnG/zVjzRlT+SjbedS/YAdeXE329ifbf5r");
-		//users.save();
+		
 		System.out.println("    ");
 		System.out.println("    ▞▚              ");
 		System.out.println("    ▚════════════════════════════════╗");
